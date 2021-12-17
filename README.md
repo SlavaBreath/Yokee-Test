@@ -1,7 +1,7 @@
 #  Yokee test
-##  Author: Slava Nagornyak
+###  Author: Slava Nagornyak
 
-###  REQUIREMENTS
+####  REQUIREMENTS
 **iOS**: 15 and above
 
 **Xcode**: 13 and above
